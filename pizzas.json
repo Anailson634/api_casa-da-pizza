@@ -1,0 +1,65 @@
+{
+    "Tradicionais": {
+        "Presunto": "Molho de tomate, mussarela, presunto, tomate e orégano.",
+        "Dois Queijos": "Molho de tomate, mussarela, catupiry, azeitona e orégano.",
+        "Catupiry": "Molho de tomate, mussarela, catupiry, azeitona, tomate e orégano.",
+        "Bacon": "Molho de tomate, mussarela, bacon e orégano.",
+        "Carne Seca": "Molho de tomate, mussarela, carne seca, catupiry, cebola, pimenta de cheiro e orégano.",
+        "Margherita": "Molho de tomate, mussarela, manjericão fresco, tomate e orégano.",
+        "Calabresa": "Molho de tomate, mussarela, calabresa, cebola, azeitona e orégano.",
+        "Portuguesa": "Molho de tomate, mussarela, presunto, ovos, cebola, pimentão, milho, palmito, calabresa, tomate e orégano.",
+        "Baiana": "Molho de tomate, calabresa moída, pimenta, calabresa, ovos, cebola e orégano.",
+        "Frango com Catupiry": "Molho de tomate, mussarela, frango desfiado, catupiry e orégano.",
+        "Quatro Queijos": "Molho de tomate, mussarela, catupiry, cheddar, provolone e orégano.",
+        "Palmito": "Molho de tomate, mussarela, palmito, parmesão e orégano.",
+        "Frango": "Molho de tomate, mussarela, frango, milho e orégano.",
+        "Milho": "Molho de tomate, mussarela, milho, catupiry e orégano.",
+        "Mussarela": "Molho de tomate, mussarela, tomate e orégano."       
+    },
+    "Especiais": {
+        "Carne aos Quatro Queijos": "Molho de tomate, mussarela, carne desfiada, creme especial, provolone, cheddar, catupiry e orégano.",
+        "Frango aos Quatro Queijos": "Molho de tomate, mussarela, frango, creme especial, catupiry, cheddar, provolone e orégano.",
+        "Nordestina": "Molho de tomate, mussarela, carne desfiada, pimenta de cheiro, pimenta calabresa, banana da terra, provolone e orégano.",
+        "Strogonoff de Carne": "Molho de tomate, mussarela, strogonoff caseiro de carne, champignon, batata palha e orégano.",
+        "Strogonoff de Frango": "Molho de tomate, mussarela, strogonoff caseiro de frango, champignon, batata palha e orégano.",
+        "Calabresa com Bacon": "Molho de tomate, calabresa, bacon, ovos, cebola e orégano.",
+        "Frango ao Creme": "Molho de tomate, mussarela, frango ao molho branco especial e orégano.",
+        "Presunto Especial": "Molho de tomate, mussarela, presunto, bacon, ovos, cebola e orégano.",
+        "Siciliana": "Molho de tomate, mussarela, bacon, champignon, cebola e orégano.",
+        "Frango na Nata": "Molho de tomate, mussarela, frango, creme especial, provolone e orégano.",
+        "Carne na Nata": "Molho de tomate, mussarela, carne, creme especial, provolone e orégano.",
+        "Brócolis": "Molho italiano, mussarela, brócolis, alho e orégano.",
+        "Frango Especial": "Molho de tomate, mussarela, frango, bacon, abacaxi, catupiry e orégano.",
+        "Parmegiana": "Molho de tomate, mussarela, carne desfiada, molho especial, parmesão e orégano.",
+        "Filé Acebolado": "Molho de tomate, mussarela, filé bovino, champignon, cebola e orégano.",
+        "A Moda": "Molho de tomate, mussarela, presunto, frango, milho, calabrea, bacon, catupiry, tomate, cebola e orégano.",
+        "Catupiresa": "Molho de tomate, mussarela, calabresa, catupiry, cebola, azeitona e orégano",
+        "Frangoesca": "Molho de tomate, mussarela, frango desfiado, bacon, parmesão, azeitona e orégano",
+        "Lombo": "Molho de tomate, mussarela, tomate, lombo defumado, parmesão, azeitona, cebola e orégano",
+        "Lombo e Catupiry": "Molho de tomate, mussarela, lombo defumado, catupiry, pimenta e orégano"
+    },
+    "Doces": {
+        "Banan": "Creme de leite, mussarela, banan, canela e leite condensado",
+        "Romeu e Julieta": "Creme de leite, mussarela, goiabada e leite condensado", 
+        "Chocolate": "Creme de leite, mussarela, chocolate e leite condensado" 
+    },
+    "Bordas Recheadas": [
+        "Catupiry",
+        "Cheddar",
+        "Chocolate",
+        "Mussarela",
+        "Frango",
+        "Calabresa",
+        "Presunto"
+    ],
+    "Tradicionais tamanho": {
+        "P": 20.00,
+        "M": 30.00,
+        "G": 40.00
+    },
+    "Especiais e doces tamanho": {
+        "P": 25.00,
+        "M": 35.00,
+        "G": 45.00
+    }
+}
